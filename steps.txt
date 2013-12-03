@@ -1,0 +1,11 @@
+1. git config username and email
+2. git clone <repositoryaddress>
+3. create / modify file
+4. git add filenames
+5. git status
+6. git commit -am "Comment"
+7. git push origin master (Changes will be written to server)
+8. Get latest files from server - git pull origin master
+
+
+
